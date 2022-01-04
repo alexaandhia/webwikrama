@@ -1,0 +1,41 @@
+.one:hover {
+    background-color: #f7f8f9;
+    color: #004258;
+    transition: 0.3s;
+    width: 800px;
+    max-height: 250px;
+    margin: auto;
+    text-align: center;
+    border: solid #ffffff;
+    border-radius: 25px;
+  }
+
+  body{
+    background-color: #1d3458;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
+    text-align: center;
+    font-size: x-large;
+  }
+
+  .br{
+    font-size: 5px;
+  }
+
+  .pict {
+    background-color: #f7f8f9;
+    transition: 0.3s;
+    max-width: 350px;
+    min-height: 250px;
+    box-align: center;
+    margin: auto;
+    padding: 30px;
+    color: #f7f8f9;
+    padding-bottom: 30px;
+    padding-top: 35px;
+  }
+
+  .text1 {
+    color: #1d3458;
+  }
+
